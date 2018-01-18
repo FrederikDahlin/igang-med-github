@@ -3,7 +3,10 @@
 # Hvordan laver man et repository  #
 * Start med at gå ind på [GitHub](http://github.com/new)
 * Udfyld felterne
-* **Husk** README.md & Node
+* **Husk** tjek README.md & Node
+* Klik på 'Clone or download'
+* Vælg 'Open in desktop'
+* Færdig
 
 
 
